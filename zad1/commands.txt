@@ -1,0 +1,2 @@
+./tmp aab abb abcc | grep "a" | ./tmp
+./tmp aab abb abcc | grep "a" | ./tmp
